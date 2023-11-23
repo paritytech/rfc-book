@@ -20,7 +20,7 @@ do
   append_rfc_to_summary "$f"
 done
 
-echo "\n---\n\n# Proposed\n\n" >> src/SUMMARY.md
+echo -e "\n---\n\n# Proposed\n\n" >> src/SUMMARY.md
 
 for f in ./src/proposed/*.md;
 do
