@@ -2,6 +2,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 0 * * *" # Once a day
 
 jobs:
   mdbook:
