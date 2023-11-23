@@ -7,7 +7,7 @@ This is a repository that reads [polkadot-fellows RFCs](https://github.com/polka
 - First, we downloaded the RFCs contained in the RFCs repo - these are "approved" RFCs.
 - Second, we download the RFCs contained in open PRS - those are "proposed" RFCs.
 - We construct a web page using [mdBook](https://github.com/rust-lang/mdBook).
-- Last, the web page is deployed to github pages under [github.com/paritytech/rfc-book](https://github.com/paritytech/rfc-book/).
+- Last, the web page is deployed to github pages under [paritytech.github.io/rfc-book](https://paritytech.github.io/rfc-book/).
 
 ### Update method
 
